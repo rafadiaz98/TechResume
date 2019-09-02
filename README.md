@@ -1,2 +1,2 @@
 # TechResume
-Online, teck skills resume 
+Online, tech-skills resume 
