@@ -38,6 +38,10 @@ Hello! My name is Rafaela Diaz and I am a senior Computer Information Systems ma
         <li>Developer API</li>
         <li>Mobile App</li>
         </ul>
+        <br>
+        <img src="PowerBICourse.png" alt="Power BI Course Completion">
+        <br>
+     
   </details>
   <details><summary>Linux</summary></details>
   <details><summary>PowerShell</summary></details>
