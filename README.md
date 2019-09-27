@@ -1,5 +1,5 @@
 <h1>Technical Skills Resume</h1>
-Welcome
+<h2>Welcome</h2>
 Hello! My name is Rafaela Diaz and I am a senior Computer Information Systems major. Welcome to my repository where you will find the technical training and certifications that I have acquired through my coursework at the University of Tulsa. Thank you!
 
 <h2>Technical Skills</h2>
@@ -33,7 +33,7 @@ Hello! My name is Rafaela Diaz and I am a senior Computer Information Systems ma
         
 
       
-      </section>
+  </section>
       <footer>
         <p>This project is maintained by <a href="http://github.com/rafadiaz98">Rafaela Diaz</a></p>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
