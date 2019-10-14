@@ -44,7 +44,7 @@ Hello! My name is Rafaela Diaz and I am a senior Computer Information Systems ma
         <br></br>
         After completing the Power BI edX course, I created the following dashboard using the <a                                       href="https://docs.microsoft.com/en-us/power-bi/sample-datasets#the-power-bi-samples-as-excel-files">Supplier Quality         Analysis sample data</a> provided by Microsoft. This dashboard shows the skills and knowledge I have gained throughout         this course, by using different visualization charts to effectively represent and communicate complex datasets.
         Click the following link to watch a demonstration of my Power BI dashboard: <a                                                 href="https://youtu.be/b664ZzpZtSk">Rafaela Diaz Supplier Quality Analysis Dashboard Video</a>.
-        A link to my shared Dashboard in PowerB is also available here: <a href="https://app.powerbi.com/groups/me/dashboards/3edb2d08-7596-4fa2-a038-d77650484157?ctid=d4ff013c-62b7-4167-924f-               5bd93e8202d3">Rafaela Diaz Supplier Quality Analysis Dashboard in Power BI</a>.
+        A link to my shared Dashboard in PowerBI is also available here: <a href="https://app.powerbi.com/groups/me/dashboards/3edb2d08-7596-4fa2-a038-d77650484157?ctid=d4ff013c-62b7-4167-924f-               5bd93e8202d3">Rafaela Diaz Supplier Quality Analysis Dashboard in Power BI</a>.
         <br>
         <br></br>
         <img src="Dashboard Rafaela.png" alt="Power BI dashboard photo">
