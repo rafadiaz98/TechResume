@@ -104,9 +104,39 @@ I also had to set up an account with Digital Ocean, a cloud hosting provider, to
 
 </details>
   
+<details><summary>Amazon Web Services (AWS)</summary>
+<br>
+ I completed the AWS Essentials course on <a href="https://linuxacademy.com/">Linux Academy</a>. The course introduced me to the core AWS services, helped set up my own AWS account, and I was challenged with real-world scenarios and hands-on activities using the Linux live environment. I was provided with an introduction to Amazon's Identity Access Management, Elastic Compute Cloud, database services, Simple Notification System, Elastic Load Balancers, Auto Scaling, and Route 53. 
+<br>
+<br>
+       
+<h4>Topics:</h4>
+<ul>
+<li>AWS Essentials</li>
+<li>Managing AWS Access with Users, Groups, and Roles</li>
+<li>Identity and Access Management (IAM)</li>
+<li>Networking Services and Connectivity</li>
+<li>Virtual Private Cloud (VPC)</li>
+<li>Compute Services</li>
+<li>Elastic Cloud Compute (EC2)</li>
+<li>Storage Services</li>
+<li>Database Services</li>
+<li>Monitoring, Alerts, and Notifications</li>
+<li>Simple Notification Service (SNS)</li>
+<li>Load Balancing, Elasticity, and Scalability</li>
+<li>Elastic Load Balancer (ELB)</li>
+<li>Auto Scaling</li>
+<li>Route 53</li>
+<li>Serverless Computing - Lambda</li>
+</ul>
+<br> 
+<img src="AWSCertificate.png" alt="AWS photo">
+<br>
+<br>
+      
+</details>
 <details><summary>PowerShell</summary></details>
 
-<details><summary>Amazon Web Services (AWS)</summary></details>
 
         
 
