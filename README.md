@@ -135,7 +135,57 @@ I also had to set up an account with Digital Ocean, a cloud hosting provider, to
 <br>
       
 </details>
-<details><summary>PowerShell</summary></details>
+
+<details><summary>PowerShell</summary>
+<br> 
+I completed the PowerShell 5 Essential Training on <a href="https://www.linkedin.com/learning/powershell-5-essential-training/welcome">LinkedIn Learning</a>.This training provided me a detailed overview and learning experience of Powershell 5 including how to get a hand from the help system, extend PowerShell with modules and snap-ins, harness the power of the PowerShell pipeline, and script and automate common administrative tasks. I was also introduced to one of PowerShell's most exciting features, remote management, which can be very useful for scaling management. 
+<br>
+<br>
+       
+<h4>Topics:</h4>
+<ul>
+<li>Installing Windows Management Framework 5</li>
+<li>Running commands (cmdlets)</li>
+<li>Discovering commands</li>
+<li>Understanding cmdlet syntax</li>
+<li>Resolving terse commands</li>
+<li>Finding and using local modules</li>
+<li>Working with files, printers, CSVs, and XML in the pipeline</li>
+<li>Selecting, sorting, and filtering object data</li>
+<li>Creating scripts</li>
+<li>Automating tasks</li>
+<li>Using PowerShell remoting</li>
+</ul>
+<br> 
+<img src="PowerShell.png" alt="PowerShell photo">
+<br>
+<br>
+  
+</details>
+     
+<details><summary>Salesforce</summary>
+<br>
+I completed the Salesforce Admin Beginner training course on <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Trailhead Salesforce</a>. This course taught me the basics of customizing and managing the Salesforce platform as an administrator and introduced me to some core skills including general, reporting, moblile, database, and data management skills. The modules covered in this training provided me a detailed overview of important tasks and subjects that are useful to know to get around Salesforce as an admin and enhance the user-side experience. 
+<br>
+<br>
+       
+<h4>Topics:</h4>
+<ul>
+<li>Salesforce Platform Basics</li>
+<li>Data Modeling</li>
+<li>Data Management</li>
+<li>Lightning Experience Customization</li>
+<li>User Engagement</li>
+<li>Reports & Dashboards for Lightning Experience</li>
+</ul>
+<br> 
+<img src="Salesforce1.png" alt="Salesforce1 photo">
+<img src="Salesforce2.png" alt="Salesforce2 photo">
+<img src="Salesforce3.png" alt="Salesforce3 photo">
+<br>
+<br>
+</details>
+  
 
 
         
