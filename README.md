@@ -1,6 +1,6 @@
 <h1>Technical Skills Resume</h1>
 <h2>Welcome</h2>
-Hello! My name is Rafaela Diaz and this May 2020 I graduated from The University of Tulsa's Computer Information Systems program at Collins College of Business. Welcome to my repository where you will find the technical training and certifications that I have acquired through my coursework at the University of Tulsa as a CIS undergrad student. Thank you!
+Hello! My name is Rafaela Diaz and this past May 2020 I graduated from The University of Tulsa's Computer Information Systems program at Collins College of Business. Welcome to my repository where you will find the technical training and certifications that I have acquired through my coursework at the University of Tulsa as a CIS undergrad student. Thank you!
 
 <h2>Technical Skills</h2>
 
