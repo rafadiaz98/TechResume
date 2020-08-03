@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="rafaeladiaz98"><a class="LI-simple-link" href='https://ec.linkedin.com/in/rafaeladiaz98?trk=profile-badge'>Rafaela Díaz</a></div>
 <h1>Technical Skills Resume</h1>
 <h2>Welcome</h2>
 Hello! My name is Rafaela Diaz and I am a senior Computer Information Systems major. Welcome to my repository where you will find the technical training and certifications that I have acquired through my coursework at the University of Tulsa. Thank you!
