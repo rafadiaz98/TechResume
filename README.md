@@ -77,11 +77,23 @@ A link to my shared Dashboard in PowerBI is also available here: <a href="https:
      <br> 
      <br></br>
      After completing the course, I created a Tableau Final Project for the class where I visually represented important and relevant information based on a 
-     COVID-19 data Excel dataset. Some of the visual analytics I used in my project include visualizations, dashboards, a story, calculated fields, sets, 
+     COVID-19 Excel dataset. Some of the visual analytics I used in my project include visualizations, dashboards, a story, calculated fields, sets, 
      and parameters. The following images are screenshots of my Tableau Project on real COVID-19 data. 
      <br>
      <br></br>
-     <img src="Dashboard Rafaela.png" alt="Power BI dashboard photo">
+     <img src="Map.png" alt="Tableau photo1">
+     <img src="LineGraph.png" alt="Tableau photo2">
+     <img src="BubbleChart.png" alt="Tableau photo3">
+     <img src="ColumnChart.png" alt="Tableau photo4">
+     <img src="BarGraph.png" alt="Tableau photo5">
+     <img src="BarGraph2.png" alt="Tableau photo6">
+     <img src="TreeMap.png" alt="Tableau photo7">
+     <img src="Dashboard.png" alt="Tableau photo8">
+     <img src="Dashboard2.png" alt="Tableau photo9">
+     <img src="Story1.png" alt="Tableau photo10">
+     <img src="Story2.png" alt="Tableau photo11">
+     <img src="Story3.png" alt="Tableau photo12">
+     <img src="Story4.png" alt="Tableau photo13">
      <br>
      <br>
 
@@ -215,6 +227,42 @@ I completed the Salesforce Admin Beginner training course on <a href="https://tr
 <br>
 <br>
 </details>
+
+<details><summary>SAS Enterprise Miner</summary>
+       <br>
+        For my Foundations of Analytics QM course, I learned to efficiently utilize the SAS Enterprise Miner software which is an advanced analytics
+        data mining tool intended to help users quickly develop descriptive and predictive models through a streamlined data mining process. My course 
+        assignments provided me the essential understanding and the right skills to reveal valuable insights with this powerful data mining tool. For my final 
+        project I had the opportunity to apply the knowledge I obtained throughout the semester to a more applied real-life problem where my group and I had to 
+        understand data, use descriptive analytics (visualization, data summary), prepare and clean the data using Excel (data preparations and transformation)
+        , and finally create and compare three different prescriptive models in SAS EM. Creating different models with SAS EM analytics strengths allowed me to 
+        have a better skillset for pattern discovery and predictive modeling. 
+       <br>
+       <br>
+       <h4>Analytic Workflow Learned:</h4>
+       <ul>
+       <li>Define analytic objectives</li>
+       <li>Select cases</li>
+       <li>Extract input data</li>
+       <li>Validate input data</li>
+       <li>Repair input data</li>
+       <li>Transform input data</li> 
+       <li>Apply analysis</li> 
+       <li>Generate deployment methods</li> 
+       <li>Integrate deployment</li> 
+       <li>Gather results</li> 
+       <li>Assess observed results</li> 
+       <li>Refine analytic objective</li> 
+       </ul>
+       <br>
+       <img src="FA project overview.png" alt="SAS photo2">
+       <img src="FA data visualization.png" alt="SAS photo3">
+       <img src="FA SAS1.png" alt="SAS photo4">
+       <img src="FA SAS2.png" alt="SAS photo5">
+       <img src="FA SAS3.png" alt="SAS photo6">
+       <br>
+       <br>
+        
   
 
 
