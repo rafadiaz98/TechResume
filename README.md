@@ -57,6 +57,36 @@ A link to my shared Dashboard in PowerBI is also available here: <a href="https:
  
 </details>
  
+<details><summary>Tableau</summary>
+       
+<br>For my Business Intelligence and Data Visualization CIS course, besides learning basic data analytics, I had the opportunity to gain experience and
+ develop a working familiarity with the grounding principle of data visualization using Excel, Power BI, as well as Tableau. The extent of this course
+ allowed me to understand how to implement data visualization tools, incorporate real datasets from multiple large-scale cases and convey data in an
+ impactful way. Some of my course learning objectives were to understand fundamental design principles of effective visualizations, utilize popular 
+ visualization applications such as Excel, Power BI, and Tableau, and demonstrate the ability to use technology tools to analyze data and report effectively.
+     <br>
+     <br></br>
+     <h4>Tableau Skills Learned:</h4> 
+     <ul>
+     <li>Connecting to Data Sources</li>
+     <li>Filtering and sorting data</li>
+     <li>Creating Groups and Hierarchies</li>  
+     <li>Creating Sets, Reference Lines, and Parameters/li>
+     <li>Creating Calculations, Dashboards, and Stories</li>
+     </ul>
+     <br> 
+     <br></br>
+     After completing the course, I created a Tableau Final Project for the class where I visually represented important and relevant information based on a 
+     COVID-19 data Excel dataset. Some of the visual analytics I used in my project include visualizations, dashboards, a story, calculated fields, sets, 
+     and parameters. The following images are screenshots of my Tableau Project on real COVID-19 data. 
+     <br>
+     <br></br>
+     <img src="Dashboard Rafaela.png" alt="Power BI dashboard photo">
+     <br>
+     <br>
+
+</details>
+  
 <details><summary>Linux</summary>
           
 <br>I completed the LPI Linux Essentials Certification course on <a href="https://linuxacademy.com/">Linux Academy</a>. 
