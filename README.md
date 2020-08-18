@@ -71,7 +71,7 @@ A link to my shared Dashboard in PowerBI is also available here: <a href="https:
      <li>Connecting to Data Sources</li>
      <li>Filtering and sorting data</li>
      <li>Creating Groups and Hierarchies</li>  
-     <li>Creating Sets, Reference Lines, and Parameters/li>
+     <li>Creating Sets, Reference Lines, and Parameters</li>
      <li>Creating Calculations, Dashboards, and Stories</li>
      </ul>
      <br> 
